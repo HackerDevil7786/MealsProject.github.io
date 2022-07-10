@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+}
+img{
+    border-radius: 5px !important;
+}
+.col-md-3{
+    margin:30px !important;
+}
+
+p{
+    font-weight: bold !important;
+    font-size:25px !important;
+    text-align:center!important;
+}
+#navbar{
+
+    background-color: black;
+    align-items: center;
+}
+li{
+    color:white;
+    list-style-type: none !important;
+    display: inline;
+    margin-left:35px;
+    margin-bottom: 15px;
+    font-size: 20px;
+
+}
+
+#nav-elements{
+    
+        padding:15px;
+  
+}
+#title{
+    font-size:30px;
+    
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.932);
+    color:white;
+   
+}
+footer p{
+    font: size 5px !important;;
+    padding:5px!important;
+}
